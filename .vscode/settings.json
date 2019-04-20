@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/ruben/.platformio/penv/bin:/home/ruben/.platformio/penv:/home/ruben/esp/xtensa-esp32-elf/bin:/home/ruben/.local/lib/python2.7/site-packages:/home/ruben/esp/xtensa-esp32-elf/bin:/home/ruben/.local/lib/python2.7/site-packages:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
